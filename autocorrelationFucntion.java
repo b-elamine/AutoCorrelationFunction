@@ -10,6 +10,7 @@ import smile.timeseries;
  * https://github.com/b-elamine
  * You can make the code better by using generic data types 
  * I use this code for my personal project that's why it is kind of specific
+ * I'll do more updates later..
  */
 public class autocorrelationFucntion{
 
